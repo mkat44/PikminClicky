@@ -1,0 +1,16 @@
+.wrapper {
+    background: #ECEFF1;
+    height: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    align-content: flex-start;
+    overflow: auto;
+    padding: 1rem;
+    margin-top: 1rem;
+  }
+
+  body {
+      background: #ECEFF1;
+      text-align: center;
+  }

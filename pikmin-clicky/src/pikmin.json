@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Blue - Bud",
+        "image": "/images/blue_bud.png"
+    },
+    {
+        "id": 2,
+        "name": "Blue - Flower",
+        "image": "/images/blue_flower.png"
+    },
+    {
+        "id": 3,
+        "name": "Blue - Leaf",
+        "image": "/images/blue_leaf.png"
+    },
+    {
+        "id": 4,
+        "name": "Pink - Bud",
+        "image": "/images/pink_bud.png"
+    },
+    {
+        "id": 5,
+        "name": "Pink - Flower",
+        "image": "/images/pink_flower.png"
+    },
+    {
+        "id": 6,
+        "name": "Pink - Leaf",
+        "image": "/images/pink_leaf.png"
+    },
+    {
+        "id": 7,
+        "name": "Purple - Bud",
+        "image": "/images/purple_bud.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Purple - Flower",
+        "image": "/images/purple_flower.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Purple - Leaf",
+        "image": "/images/purple_leaf.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Red - Bud",
+        "image": "/images/red_bud.png"
+    },
+    {
+        "id": 11,
+        "name": "Red - Flower",
+        "image": "/images/red_flower.png"
+    },
+    {
+        "id": 12,
+        "name": "Red - Leaf",
+        "image": "/images/red_leaf.png"
+    },
+    {
+        "id": 13,
+        "name": "White - Bud",
+        "image": "/images/white_bud.jpg"
+    },
+    {
+        "id": 14,
+        "name": "White - Flower",
+        "image": "/images/white_flower.jpg"
+    },
+    {
+        "id": 15,
+        "name": "White - Leaf",
+        "image": "/images/white_leaf.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Yellow - Bud",
+        "image": "/images/yellow_bud.png"
+    },
+    {
+        "id": 17,
+        "name": "Yellow - Flower",
+        "image": "/images/yellow_flower.png"
+    },
+    {
+        "id": 18,
+        "name": "Yellow - Leaf",
+        "image": "/images/yellow_leaf.png"
+    }
+]

@@ -1,0 +1,14 @@
+.card {
+    max-height: 9rem;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+    margin: 1rem;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+}
+
+.img {
+    height: 9rem;
+    overflow: hidden;
+    text-align: center;
+}
