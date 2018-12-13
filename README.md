@@ -1,5 +1,6 @@
 # PikminClicky
 A clicking game honoring Pikmin using React!
+Deployed at: http://madly-carpenter.surge.sh/
 
 # Flow
 Select an image and the rest will be shuffled. Try to remember which images you've selected and don't select it more than once or the game will reset along with the score. There is a maximum score of 18.
